@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+.student-card {
+  background-color: #3a3a3a;
+  color: white;
+  width: 280px;
+  margin: 20px auto; /* center me layega */
+  padding: 15px 20px;
+  border-radius: 15px;
+  text-align: left;
+  border: 2px solid #666;
+}
+
+button {
+  background: black;
+  color: white;
+  padding: 10px 40px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
